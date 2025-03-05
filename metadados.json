@@ -1,0 +1,15 @@
+{
+    "chainId": 101,
+    "address": "zwv6YEzv7hZK3FjNQf1m3FALsaeDukUPMcahUrpRFC2",
+    "symbol": "LV",
+    "name": "LUVI",
+    "decimals": 9,
+    "logoURI": "https://github.com/lucasoliver-dev/luvi-token/blob/main/assets/mainnet/LUVI.png?raw=true",
+    "tags": [
+      "utility-token",
+      "stablecoin",
+      "community-token"
+    ],
+    "description": "LUVI is a decentralized stablecoin designed for fast and low-cost transactions on the Solana blockchain."
+  }
+  
